@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Sobre o template do bootstrap
 
-Template Name: Day
-Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Nome: Day
+URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
+Autor: BootstrapMade.com
+Licença: https://bootstrapmade.com/license/
